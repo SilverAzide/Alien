@@ -79,5 +79,5 @@ Tap the settings icon to view the Settings page.<br>
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))
 
 ---
-[![GitHub All Releases](https://img.shields.io/github/downloads/SilverAzide/Alien/total?logo=github&color=008000&style=for-the-badge)](https://github.com/SilverAzide/Alien/releases)
+[![GitHub All Releases](https://img.shields.io/github/downloads/SilverAzide/Alien/total?logo=github&color=blue&style=for-the-badge)](https://github.com/SilverAzide/Alien/releases)
 [![DeviantArt All Releases](https://img.shields.io/badge/dynamic/json?logo=deviantart&label=Downloads&color=05cc47&style=for-the-badge&query=%24.community.statistics._attributes.downloads&url=https%3A%2F%2Fbackend.deviantart.com%2Foembed%3Furl%3Dhttps%253A%252F%252Fwww.deviantart.com%252Fsilverazide2%252Fart%252FAlien-1-0-0-881798919%26format%3Djson)](https://www.deviantart.com/silverazide2/art/Alien-1-0-0-881798919)
