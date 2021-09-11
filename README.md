@@ -41,7 +41,7 @@ Tap the network area to view the Network page.<br>
 * Shows network upload/download statistics.
 * Indicates network and internet connectivity.
 * Displays network type and name.
-* Displays internal and external IP addresses, network gateway address, WiFi network SSID, and signal strength.
+* Displays internal and external IP addresses, network gateway address, MAC address, WiFi network SSID, and signal strength.
 * Automatically detects and uses the [Gadgets NetMonitor service](https://github.com/SilverAzide/Gadgets/wiki/INFO-Network-statistics-monitoring#info-network-statistics-monitoring) if installed.
 #### Processor
 Tap the CPU area to view the Processor page.<br>
@@ -65,7 +65,7 @@ Tap the settings icon to view the Settings page.<br>
 * Right-click the skin and select `Alien settings` from the menu to edit settings manually.
 
 ## Requirements
-[Rainmeter 4.4.0.3438 or later](https://www.rainmeter.net).
+[Rainmeter 4.5.1 or later](https://www.rainmeter.net).
 
 **Optional**<br>
 [HWiNFO 7.02 or later](https://www.hwinfo.com) to report CPU temperature and fan speed.
