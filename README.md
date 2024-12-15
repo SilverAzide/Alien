@@ -34,7 +34,7 @@ Tap the internet speed area to view the Speed Test page.<br>
 ![](https://github.com/SilverAzide/Alien/wiki/Images/Spacer.png) ![](https://github.com/SilverAzide/Alien/wiki/Images/AlienSpeedTest.png)
 * Shows network speed test statistics and ping time.
 * Shows speed test performance graph.
-* Runs speed tests via speedtest.net (configurable).
+* Runs speed tests via speedtest.net (configurable, instructions [here](https://github.com/SilverAzide/Alien/wiki/HOW-TO-Run-a-Network-Speed-Test)).
 #### Network
 Tap the network area to view the Network page.<br>
 ![](https://github.com/SilverAzide/Alien/wiki/Images/Spacer.png) ![](https://github.com/SilverAzide/Alien/wiki/Images/AlienNetwork.png)
@@ -48,7 +48,7 @@ Tap the CPU area to view the Processor page.<br>
 ![](https://github.com/SilverAzide/Alien/wiki/Images/Spacer.png) ![](https://github.com/SilverAzide/Alien/wiki/Images/AlienCpu.png)
 * Displays processor model and overall CPU utilization.
 * Shows CPU utilization graph.
-* Shows CPU core temperature and fan speed (optional, requires [HWiNFO](http://www.hwinfo.com).
+* Shows CPU core temperature and fan speed (optional, requires [HWiNFO](http://www.hwinfo.com), instructions [here](https://github.com/SilverAzide/Alien/wiki/HOW-TO-Configure-HWiNFO)).
 * Shows used, free, and total RAM available.
 * Shows top 5 processes by percentage CPU time.
 * Shows computer uptime.
