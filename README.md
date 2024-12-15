@@ -18,7 +18,7 @@ Inspired by the UI of the [Ubiqity AmpliFi Alien](https://amplifi.com/alien) WiF
 * Shows CPU clock speed and CPU utilization graph for up to 64 logical cores (does not support NUMA/SMP architectures).
 * Shows disk information and activity for up to 3 logical drives (any type).
 * Shows CPU clock speed and per-core CPU utilization graph.
-* Shows CPU temperature, overall utilitization, and memory usage.
+* Shows CPU temperature, overall utilization, and memory usage.
 * Scales to any desired size.
 #### Weather
 Tap the clock area to toggle the Weather page. Click the weather icon area to return.<br>
