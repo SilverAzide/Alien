@@ -66,7 +66,7 @@ Tap the settings icon to view the Settings page.<br>
 * Right-click the skin and select `Alien settings` from the menu to edit settings manually.
 
 ## Requirements
-Windows 8.0 or later
+Windows 8.0 or later<br>
 [Rainmeter 4.5.16 or later](https://www.rainmeter.net).
 
 **Optional**<br>
