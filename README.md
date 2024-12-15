@@ -4,7 +4,7 @@
 
 Inspired by the UI of the [Ubiqity AmpliFi Alien](https://amplifi.com/alien) WiFi 6 mesh router. :thumbsup:
 
-[![Click here to download](https://img.shields.io/github/v/release/SilverAzide/Alien?logo=github&label=Click%20here%20to%20download&color=008000&style=for-the-badge)](https://github.com/SilverAzide/Alien/releases/download/v1.2.1/Alien_1.2.1.rmskin)
+[![Click here to download](https://img.shields.io/github/v/release/SilverAzide/Alien?logo=github&label=Click%20here%20to%20download&color=008000&style=for-the-badge)](https://github.com/SilverAzide/Alien/releases/download/v1.3.0/Alien_1.3.0.rmskin)
 
 ###### Get help on the Rainmeter forums
 [![Rainmeter Forum](https://img.shields.io/static/v1?label=Rainmeter%20Forum&message=Alien&colorA=f0f0f0&colorB=008000&style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAAsAAAAQCAYAAADAvYV%2BAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAESwAABEsBbzH2CgAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAH6SURBVCiRhdJPSJNhHAfw7%2FO8z%2Fu8%2F3w3bW05WVlr4XRzyw0iFRfF7FIepD8UQn9Mq8MWBnXpsPDapVuhyyKKqE4lHSoKqUPUwYQkgkqtiBAcCTU22db7dLFyueh3%2FPHh%2B%2BUHP6DCNCTS6yrt6d8LX%2FKyU2HSS39iqPm%2F2KXLF7aHvKajSr8BCPJPHDwx3GbT1c4z3TGpub62PnLq6qHKeM9tydS0a6ldW%2ByUEJze2W5yKp3bOHClehmOrM72tW7wOJs8TgCAw9Swvz1oU7g0WIajR4dkzthgfzxqLq3d1xbkFDgQOn7R9RtbVXJfrHGt7q4us1Bkhp6OsG7YjdQiFoQzluqPR8rlr1M2N3EI9PiS123Un0zH%2FHUOvlLnKH5%2BCuvbp2XpnWGfrEuFvUzjfNvWgLcm%2FyyFwtQdAAR8fRfUyACo4YY1%2FxaxBo8x9npmB5MAVZYoIbK2mCVQmBpFYfoeqOEGkRSwlhGACJXmiqWHD169n1eCvSDc9qdfWLCyX6C2JPB4ciaXzRdGpbkXdz%2Fooee77XaXK9RxmArLAmEq2KootNazmMh7xcjY%2BGwmI44QAAicvLTC5PxReE2tt3tTo72uxkTmew73J95ln7z5OJcrleKT53unlzyKIIFEusthMw5aQtRTgtmv2YVbysKPm%2BPDx4oA8BMJrI6FKL9sKAAAAABJRU5ErkJggg%3D%3D)](https://forum.rainmeter.net/viewtopic.php?f=132&t=37665)
@@ -15,7 +15,7 @@ Inspired by the UI of the [Ubiqity AmpliFi Alien](https://amplifi.com/alien) WiF
 * Shows current time and date
 * Shows network speed test statistics.
 * Shows network upload/download statistics with graphical chart of inbound and outbound network activity.
-* Shows CPU clock speed and CPU utilization graph for up to 64 logical cores.
+* Shows CPU clock speed and CPU utilization graph for up to 64 logical cores (does not support NUMA/SMP architectures).
 * Shows disk information and activity for up to 3 logical drives (any type).
 * Shows CPU clock speed and per-core CPU utilization graph.
 * Shows CPU temperature, overall utilitization, and memory usage.
@@ -50,6 +50,7 @@ Tap the CPU area to view the Processor page.<br>
 * Shows CPU utilization graph.
 * Shows CPU core temperature and fan speed (optional, requires [HWiNFO](http://www.hwinfo.com).
 * Shows used, free, and total RAM available.
+* Shows top 5 processes by percentage CPU time.
 * Shows computer uptime.
 #### Drives
 Tap the drives area to view the Drives page.<br>
@@ -65,6 +66,7 @@ Tap the settings icon to view the Settings page.<br>
 * Right-click the skin and select `Alien settings` from the menu to edit settings manually.
 
 ## Requirements
+Windows 8.0 or later
 [Rainmeter 4.5.16 or later](https://www.rainmeter.net).
 
 **Optional**<br>
@@ -80,4 +82,4 @@ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International ([CC BY-
 
 ---
 [![GitHub All Releases](https://img.shields.io/github/downloads/SilverAzide/Alien/total?logo=github&color=blue&style=for-the-badge)](https://github.com/SilverAzide/Alien/releases)
-[![DeviantArt All Releases](https://img.shields.io/badge/dynamic/json?logo=deviantart&label=Downloads&color=05cc47&style=for-the-badge&query=%24.community.statistics._attributes.downloads&url=https%3A%2F%2Fbackend.deviantart.com%2Foembed%3Furl%3Dhttps%253A%252F%252Fwww.deviantart.com%252Fsilverazide2%252Fart%252FAlien-1-2-1-881798919%26format%3Djson)](https://www.deviantart.com/silverazide2/art/Alien-1-2-1-881798919)
+[![DeviantArt All Releases](https://img.shields.io/badge/dynamic/json?logo=deviantart&label=Downloads&color=05cc47&style=for-the-badge&query=%24.community.statistics._attributes.downloads&url=https%3A%2F%2Fbackend.deviantart.com%2Foembed%3Furl%3Dhttps%253A%252F%252Fwww.deviantart.com%252Fsilverazide2%252Fart%252FAlien-1-3-0-881798919%26format%3Djson)](https://www.deviantart.com/silverazide2/art/Alien-1-3-0-881798919)
